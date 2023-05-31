@@ -1,0 +1,4 @@
+export enum TransactionGroups {
+  TRANSACTION_LIST = 'TRANSACTION_LIST',
+  TRANSACTION_VIEW = 'TRANSACTION_VIEW',
+}
