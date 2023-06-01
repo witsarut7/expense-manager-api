@@ -158,7 +158,7 @@ The endpoints of "Category", "Transaction" and "User" are restricted. To access 
   }
 ```
 
-### Categories
+### Category
 ```bash
   {
     "title": "Shopping",
@@ -166,7 +166,7 @@ The endpoints of "Category", "Transaction" and "User" are restricted. To access 
   }
 ```
 
-### Transactions
+### Transaction
 ```bash
   {
     "amount": 4000.50,
